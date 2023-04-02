@@ -1,0 +1,10 @@
+tkinter==8.6.10
+requests==2.26.0
+socket==0.8.1
+urllib3==1.26.7
+csv==1.0
+threading==0.1.3
+concurrent==0.2.2
+feedparser==6.0.8
+re==2.2.1
+socks==1.7.1
