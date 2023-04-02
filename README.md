@@ -1,6 +1,8 @@
 # Proxy Checker
 Proxy Checker is a simple and efficient Python tool built using the tkinter library to check the validity of proxies. This tool allows users to load proxy lists from a file or a URL and test each proxy against a specified URL. The application supports multiple proxy types, including HTTP, HTTPS, SOCKS4, and SOCKS5.
 
+![Free Proxy Checker and Generator](https://i.ibb.co/82fQRfm/proxy-free-checker.png)
+
 ## Features
 + Load proxies from a local file or a URL
 + Supports HTTP, HTTPS, SOCKS4, and SOCKS5 proxy types
